@@ -1,2 +1,2 @@
 # RepoTest1
-## Hola mundo desde mi git hub
+## Hola mundo desde mi GitHub
